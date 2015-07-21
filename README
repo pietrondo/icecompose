@@ -1,0 +1,4 @@
+copy these files in your Icecoder directory
+https://icecoder.net/
+ and after do:
+docker-compose up
